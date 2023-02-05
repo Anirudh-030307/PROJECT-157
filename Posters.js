@@ -8,20 +8,20 @@ AFRAME.registerComponent("comics-posters", {
     const postersRef = [
       {
         id: "superman",
-        url: "./assets/posters/superman-poster.jpg"
+        url: "./posters/superman-poster.jpg"
       },
       {
         id: "spiderman",
-        url: "./assets/posters/spiderman-poster.jpg"
+        url: "./posters/spiderman-poster.jpg"
       },
 
       {
         id: "captain-aero",
-        url: "./assets/posters/captain-aero-poster.jpg"
+        url: "./posters/captain-aero-poster.jpg"
       },
       {
         id: "outer-space",
-        url: "./assets/posters/outer-space-poster.jpg"
+        url: "./posters/outer-space-poster.jpg"
       }
     ];
     let prevoiusXPosition = -60;
